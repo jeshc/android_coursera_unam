@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sem3Tarea</string>
+    <string name="titulo">Bienvenido</string>
+    <string name="boton">Entrar</string>
 </resources>
